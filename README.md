@@ -1,12 +1,12 @@
 # Orwell
 
-## 1. Proposta
-Imagine  que você  tenha sido contratado(a) para propor e desenvolver tecnologiaspara uma fábrica de refrigerantes.  Ao  entrar  na  empresa,  o  diretor  te  apresenta  tudo  o  que  a  tecnologia  pode  prover  de melhoria e sua meta é desenvolver um Sistema de Visão Computacional que atenda a pelo menos 1 destas demandas:
-- Controle de entrada e saída de funcionários (existe uma base de dados com foto de todos);
-- Controle de entrada e saída de veículos (todos os veículos são cadastrados para liberação de acesso).
+## 1. Introduction
+The project's propose is develop a Computational Vision software to a soda industry, including the following features:
+- Employees presence control with face detection and recognition;
+- OCR for car's plates.
 
-## 2. Desenvolvimento Face Recognition
-- Controle de entrada e saída de funcionários (existe uma base de dados com foto de todos);
+## 2. Face Recognition Development
+Employees presence control with face detection and recognition;
 
 ### 2.1 Face Recognition Overview:
 
@@ -16,7 +16,7 @@ Imagine  que você  tenha sido contratado(a) para propor e desenvolver tecnologi
  </p>
  
 ### 2.2 Face Recognition Flowchart
- <p align="center">
+<p align="center">
 <img src="README\FlowchartFR.jpg"
      height=40% >
  </p>
